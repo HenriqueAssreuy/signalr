@@ -1,0 +1,64 @@
+C:\Projetos\SignalR\SignalR\bin\SignalR.dll.config
+C:\Projetos\SignalR\SignalR\bin\SignalR.dll
+C:\Projetos\SignalR\SignalR\bin\SignalR.pdb
+C:\Projetos\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Projetos\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Projetos\SignalR\SignalR\bin\Microsoft.Owin.dll
+C:\Projetos\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projetos\SignalR\SignalR\bin\Microsoft.Owin.Security.dll
+C:\Projetos\SignalR\SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\SignalR\SignalR\bin\Newtonsoft.Json.dll
+C:\Projetos\SignalR\SignalR\bin\Owin.dll
+C:\Projetos\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Projetos\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Projetos\SignalR\SignalR\bin\Microsoft.Owin.xml
+C:\Projetos\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projetos\SignalR\SignalR\bin\Microsoft.Owin.Security.xml
+C:\Projetos\SignalR\SignalR\bin\Newtonsoft.Json.xml
+C:\Projetos\SignalR\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
+C:\Projetos\SignalR\SignalR\obj\Debug\SignalR.dll
+C:\Projetos\SignalR\SignalR\obj\Debug\SignalR.pdb
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\SignalR.dll.config
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\SignalR.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\SignalR.pdb
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.Owin.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.Owin.Security.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Owin.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.Owin.xml
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Microsoft.Owin.Security.xml
+C:\Users\Henrique\Desktop\SignalR\SignalR\bin\Newtonsoft.Json.xml
+C:\Users\Henrique\Desktop\SignalR\SignalR\obj\Debug\SignalR.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\SignalR\SignalR\obj\Debug\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\SignalR\SignalR\obj\Debug\SignalR.csproj.CopyComplete
+C:\Users\Henrique\Desktop\SignalR\SignalR\obj\Debug\SignalR.dll
+C:\Users\Henrique\Desktop\SignalR\SignalR\obj\Debug\SignalR.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\SignalR.dll.config
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\SignalR.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\SignalR.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.Owin.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.Owin.Security.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Newtonsoft.Json.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Owin.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.Owin.xml
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Microsoft.Owin.Security.xml
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\bin\Newtonsoft.Json.xml
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\obj\Debug\SignalR.csproj.AssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\obj\Debug\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\obj\Debug\SignalR.csproj.CopyComplete
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\obj\Debug\SignalR.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SignalR\SignalR\obj\Debug\SignalR.pdb
